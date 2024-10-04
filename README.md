@@ -10,7 +10,13 @@ Pjay-Shell is a simple Unix-like command-line shell implemented in C. It support
 - **I/O Redirection**: Support for redirecting input and output streams, enhancing the shell's ability to handle files and processes effectively.
 - **Background Execution**: Ability to run programs in the background, allowing users to continue using the shell while processes execute.
 
-## Installation
+## Getting Started
+
+### Prerequisites:
+- GCC
+- Make
+
+### Installation:
 
 1. Clone the repository:
    ```bash
