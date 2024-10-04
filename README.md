@@ -44,7 +44,7 @@ If you run into any challenges or have inquiries regarding this project, you can
 
 ## References
 
-### Acknowledgments:
+### Acknowledgements:
 A heartfelt thank you to [Dr. Graham Healy](https://www.dcu.ie/computing/people/graham-healy) for providing invaluable guidance during the initial development of Pjay-Shell.
 
 ### Research Sources:
