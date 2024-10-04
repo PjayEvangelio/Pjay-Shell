@@ -44,12 +44,12 @@ If you run into any challenges or have inquiries regarding this project, you can
 
 ## References
 
-  ### Acknowledgments
-  A heartfelt thank you to [Dr. Graham Healy](https://www.dcu.ie/computing/people/graham-healy) for providing invaluable guidance during the initial development of Pjay-Shell.
+### Acknowledgments:
+A heartfelt thank you to [Dr. Graham Healy](https://www.dcu.ie/computing/people/graham-healy) for providing invaluable guidance during the initial development of Pjay-Shell.
 
-  ### Research Sources
-  - A. Robbins, Unix in a Nutshell. “O’Reilly Media, Inc.,” 2005.
-  - P. S. Wang, Mastering Linux. Hoboken: CRC Press, 2010.
-  - N. Matthew and R. Stones, Beginning Linux Programming, Second Edition. 1999.
-  - C. Newham and B. Rosenblatt, Learning the bash shell. Sebastopol, Calif. ; Farnham: O’reilly, 2005.
-  - C. Negus, MAC OS X UNIX Toolbox. John Wiley & Sons, 2009.
+### Research Sources:
+- A. Robbins, Unix in a Nutshell. “O’Reilly Media, Inc.,” 2005.
+- P. S. Wang, Mastering Linux. Hoboken: CRC Press, 2010.
+- N. Matthew and R. Stones, Beginning Linux Programming, Second Edition. 1999.
+- C. Newham and B. Rosenblatt, Learning the bash shell. Sebastopol, Calif. ; Farnham: O’reilly, 2005.
+- C. Negus, MAC OS X UNIX Toolbox. John Wiley & Sons, 2009.
